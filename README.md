@@ -4,6 +4,7 @@ Thays Gama: https://www.linkedin.com/in/thaysgama/
 
 Captura dos testes:  
 
+![captura-dos-testes](https://user-images.githubusercontent.com/41749455/161137664-7f77dd31-1289-4465-8be3-462bd11bdb14.png)
 
 
 Endereço do desafio: https://edabit.com/challenge/iY6e9fMQSWi38J699
